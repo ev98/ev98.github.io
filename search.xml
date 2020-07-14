@@ -11,6 +11,20 @@
         <content type="html"><![CDATA[<h1 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h1><p>内容</p><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><p>内容</p><h3 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h3><p>内容</p>]]></content>
       
       
+      <categories>
+          
+          <category> test1 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> demo1 </tag>
+            
+            <tag> demo2 </tag>
+            
+        </tags>
       
     </entry>
     
